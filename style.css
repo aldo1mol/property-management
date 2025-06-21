@@ -96,7 +96,7 @@ body #home {
   min-height: 100vh;
   background-size: cover;
   background-position: center;
-  background-image: url(/img/house2.jpg);
+  background-image: url(img/house2.jpg);
   display: grid;
   grid-template-columns: auto auto;
 }
@@ -543,23 +543,23 @@ body #services .services-content .card-one button:hover, body #services .service
   cursor: pointer;
 }
 #rent-properties .property-content .carousel #one, #sell-properties .property-content .carousel #one {
-  background: url(/img/blue\ house\ 2.jpg);
+  background: url(img/house.jpg);
   background-size: cover;
 }
 #rent-properties .property-content .carousel #two, #sell-properties .property-content .carousel #two {
-  background: url(/img/house4.jpg);
+  background: url(img/house5.jpg);
   background-size: cover;
 }
 #rent-properties .property-content .carousel #three, #sell-properties .property-content .carousel #three {
-  background: url(/img/pexels-vecislavas-popa-1571463.jpg);
+  background: url(img/house6.jpg);
   background-size: cover;
 }
 #rent-properties .property-content .carousel #four, #sell-properties .property-content .carousel #four {
-  background: url(/img/house.jpg);
+  background: url(img/house9.jpg);
   background-size: cover;
 }
 #rent-properties .property-content .carousel #five, #sell-properties .property-content .carousel #five {
-  background: url(/img/pexels-pixabay-164558.jpg);
+  background: url(img/house8.jpg);
   background-size: cover;
 }
 #rent-properties .property-content .carousel i, #sell-properties .property-content .carousel i {
@@ -581,7 +581,7 @@ body #services .services-content .card-one button:hover, body #services .service
   min-height: 100vh;
   background-size: cover;
   background-position: center;
-  background-image: url(/img/pexels-vecislavas-popa-1571463.jpg);
+  background-image: url(img/house8.jpg);
 }
 #testimonials::before {
   content: "";
@@ -681,7 +681,7 @@ body #services .services-content .card-one button:hover, body #services .service
   min-height: 100vh;
   background-size: cover;
   background-position: center;
-  background-image: url(/img/blue\ house\ 2.jpg);
+  background-image: url(img/house9.jpg);
 }
 #contact::before {
   content: "";
